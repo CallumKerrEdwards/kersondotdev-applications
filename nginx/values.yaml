@@ -1,4 +1,4 @@
 nginx:
-	ingress:
-		enabled: true
-		hostname: "nginx.kerson.dev"
+    ingress:
+        enabled: true
+        hostname: "nginx.kerson.dev"
